@@ -108,7 +108,7 @@ Please read our Contributing Guidelines for more details.
 The Students Performance Evaluation System is licensed under the MIT License.
 
 ## Contact
-If you have any questions or need further assistance, please contact us at your-email@example.com.
+If you have any questions or need further assistance, please contact us.
 
 Thank you for using the Students Performance Evaluation System! We hope it meets your needs and look forward to your feedback and contributions.
 
